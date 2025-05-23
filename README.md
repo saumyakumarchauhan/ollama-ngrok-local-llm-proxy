@@ -134,4 +134,3 @@ Block bots:
 
 MIT License
 
-Made with ❤️ by 24f1000666@ds.study.iitm.ac.in
